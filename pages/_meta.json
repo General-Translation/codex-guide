@@ -1,0 +1,12 @@
+{
+  "index": "Intro",
+  "contact": {
+    "title": "GT ↗",
+    "type": "page",
+    "href": "https://generaltranslation.com",
+    "newWindow": true
+  },
+  "getting-started": "Getting Started",
+  "tools": "Tools",
+  "models": "Models"
+}
