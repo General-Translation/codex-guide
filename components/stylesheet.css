@@ -1,0 +1,5 @@
+.borderless-svg {
+    cursor: auto;
+    stroke: rgb(128, 128, 128);
+    border: none;
+}

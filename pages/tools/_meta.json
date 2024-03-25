@@ -1,5 +1,5 @@
 {
-  "custom-prompting": "Custom Prompting",
-  "audio": "Audio",
-  "filter-input": "Filter Input"
+  "pages": "Pages",
+  "prompting": "Prompting",
+  "audio": "Audio"
 }
